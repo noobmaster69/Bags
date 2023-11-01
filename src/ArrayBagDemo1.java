@@ -1,5 +1,5 @@
 public class ArrayBagDemo1 {
-    public static void main(String[] args) throws IllegalAccessException {
+    public static void main(String[] args)  {
         
         //Adding to an initially empty bag with sufficient capacity
         System.out.println("Testing an initially empty bag with" +
